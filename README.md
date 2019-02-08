@@ -4,4 +4,4 @@ Link: https://jongryn.github.io/budgety/
 
 Technologies: HTML/CSS & JavaScript
 
-Instructions:
+Instructions: Build an application that helps you with your budget
