@@ -7,7 +7,7 @@ Technologies: HTML/CSS & JavaScript
 Description: Budget App
 - 3 Modules:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I. &nbsp;&nbsp; Budget Controller
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I. Budget Controller
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A. addItem
 <br />
