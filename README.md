@@ -6,8 +6,8 @@ Technologies: HTML/CSS & JavaScript
 
 Instructions: Build an application that helps you with your budget
 - 3 Modules:
-<br />
-I. Budget Controller
+
+&nbsp; I. Budget Controller
 <br />
 &nbsp; A. addItem
 <br />
