@@ -10,8 +10,9 @@ Instructions: Build an application that helps you with your budget
 <br />
 &nbsp;&nbsp;&nbsp; A. addItem
 <br />
-&nbsp; B. calculateBudget
-3. calculateTotal
+&nbsp;&nbsp;&nbsp; B. calculateBudget
+<br />
+&nbsp;&nbsp;&nbsp; C. calculateTotal
 4. getBudget
 5. calculatePercentages
 2. UI Controller
