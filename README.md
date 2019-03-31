@@ -9,3 +9,7 @@ Instructions: Build an application that helps you with your budget
   1. Budget Controller
   2. UI Controller
   3. Global App Controller
+- Architecture:
+  1.
+  2.
+  3.
