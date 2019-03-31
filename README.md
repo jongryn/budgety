@@ -5,7 +5,7 @@ Link: https://jongryn.github.io/budgety/
 Technologies: HTML/CSS & JavaScript
 
 Description: Budget App
-- 3 Modules:
+- Architecture (3 Modules):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I. Budget Controller
 <br />
