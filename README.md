@@ -7,8 +7,10 @@ Technologies: HTML/CSS & JavaScript
 Instructions: Build an application that helps you with your budget
 - 3 Modules:
   1. Budget Controller
-    1. addItem
-    2. calculateBudget
+  <br />
+  &nbsp; A. addItem
+  <br />
+  &nbsp; B. calculateBudget
     3. calculateTotal
     4. getBudget
     5. calculatePercentages
