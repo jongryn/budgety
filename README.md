@@ -6,7 +6,7 @@ A Budgeting Application With HTML/CSS/JS
 
 The demo of the budgety application can be found [here](https://jongryn.github.io/budgety/).
 
-## Description: Budget App
+## Description
 - Architecture (3 Modules):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I. Budget Controller
