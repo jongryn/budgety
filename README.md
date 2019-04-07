@@ -1,5 +1,3 @@
-# budgety
-
 # Budgety!
 
 A Budgeting Application With HTML/CSS/JS
