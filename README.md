@@ -72,6 +72,5 @@ The demo of the budgety application can be found [here](https://jongryn.github.i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I. getDOMstrings
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; J. displayMonth
-
 Upda
 
